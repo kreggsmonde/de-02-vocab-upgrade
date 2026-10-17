@@ -8,6 +8,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.04,
     "video_file": "podcast_ep1_20261016_032719.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 2,
+    "topic": "Von 'Geil' bis 'Krass': Wie man Begeisterung im modernen Deutsch ausdrückt",
+    "date": "2026-10-17T11:54:45.941344",
+    "duration_sec": 1658.04,
+    "duration_min": 27.63,
+    "video_file": "podcast_ep2_20261017_113810.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
