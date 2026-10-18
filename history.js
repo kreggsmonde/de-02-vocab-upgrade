@@ -17,6 +17,15 @@ const PODCAST_HISTORY = [
     "duration_min": 27.63,
     "video_file": "podcast_ep2_20261017_113810.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Schluss mit 'Ist OK'! So sagst du wirklich, dass etwas gut ist",
+    "date": "2026-10-18T05:30:06.209385",
+    "duration_sec": 1506.34,
+    "duration_min": 25.11,
+    "video_file": "podcast_ep3_20261018_051552.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
