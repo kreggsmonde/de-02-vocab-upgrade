@@ -25,5 +25,14 @@
     "duration_min": 25.11,
     "video_file": "podcast_ep3_20261018_051552.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 4,
+    "topic": "Keine Lust mehr auf 'Ich bin müde'! Neue Wege, Erschöpfung auszudrücken wie ein echter Berliner",
+    "date": "2026-10-19T05:43:04.970507",
+    "duration_sec": 1577.45,
+    "duration_min": 26.29,
+    "video_file": "podcast_ep4_20261019_052813.mp4",
+    "platform": "Facebook"
   }
 ]
