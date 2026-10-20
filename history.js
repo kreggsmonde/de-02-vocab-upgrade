@@ -35,6 +35,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.29,
     "video_file": "podcast_ep4_20261019_052813.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 5,
+    "topic": "Schluss mit 'Ich verstehe nichts'! Überzeugend klarmachen, dass du etwas nicht kapierst",
+    "date": "2026-10-20T05:55:24.175149",
+    "duration_sec": 1536.1,
+    "duration_min": 25.6,
+    "video_file": "podcast_ep5_20261020_053140.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
