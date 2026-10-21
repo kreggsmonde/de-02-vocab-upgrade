@@ -44,6 +44,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.6,
     "video_file": "podcast_ep5_20261020_053140.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Von 'Ja, klar!' bis 'Auf jeden Fall!': Zustimmung ausdrücken wie ein echter Deutschprofi",
+    "date": "2026-10-21T05:53:21.706684",
+    "duration_sec": 1572.21,
+    "duration_min": 26.2,
+    "video_file": "podcast_ep6_20261021_053233.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
