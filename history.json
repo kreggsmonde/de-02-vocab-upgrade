@@ -52,5 +52,14 @@
     "duration_min": 26.2,
     "video_file": "podcast_ep6_20261021_053233.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Tschüss 'Langweilig'! Wie man über Aktivitäten spricht, die wirklich Spaß machen",
+    "date": "2026-10-22T05:58:55.226201",
+    "duration_sec": 1520.81,
+    "duration_min": 25.35,
+    "video_file": "podcast_ep7_20261022_053529.mp4",
+    "platform": "Facebook"
   }
 ]
