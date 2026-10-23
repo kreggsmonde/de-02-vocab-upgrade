@@ -61,5 +61,14 @@
     "duration_min": 25.35,
     "video_file": "podcast_ep7_20261022_053529.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Von 'Was geht ab?' bis 'Alles im Lot?': Die Kunst des lockeren Nachfragens",
+    "date": "2026-10-23T06:00:18.373954",
+    "duration_sec": 1524.29,
+    "duration_min": 25.4,
+    "video_file": "podcast_ep8_20261023_053421.mp4",
+    "platform": "Facebook"
   }
 ]
