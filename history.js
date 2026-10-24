@@ -71,6 +71,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.4,
     "video_file": "podcast_ep8_20261023_053421.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 9,
+    "topic": "Schluss mit 'Ich bin hungrig'! Raffinierte Wege, Appetit auf Deutsch auszudrücken",
+    "date": "2026-10-24T05:36:39.318742",
+    "duration_sec": 1488.72,
+    "duration_min": 24.81,
+    "video_file": "podcast_ep9_20261024_051247.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
