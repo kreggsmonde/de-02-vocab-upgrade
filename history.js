@@ -89,6 +89,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.88,
     "video_file": "podcast_ep10_20261025_052931.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Von 'Super' zu 'Abgefahren': Begeisterung ausdrücken, die rockt!",
+    "date": "2026-10-26T05:54:46.958872",
+    "duration_sec": 1492.87,
+    "duration_min": 24.88,
+    "video_file": "podcast_ep11_20261026_053507.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
