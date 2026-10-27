@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.88,
     "video_file": "podcast_ep11_20261026_053507.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Schluss mit 'Es ist gut so'! Wie man Zufriedenheit und Wohlbefinden ausdrückt",
+    "date": "2026-10-27T06:14:25.893014",
+    "duration_sec": 1648.56,
+    "duration_min": 27.48,
+    "video_file": "podcast_ep12_20261027_054804.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
