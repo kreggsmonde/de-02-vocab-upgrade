@@ -106,5 +106,14 @@
     "duration_min": 27.48,
     "video_file": "podcast_ep12_20261027_054804.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Von 'Ach so!' bis 'Das leuchtet ein!': Die Kunst, Aha-Momente im Alltag zu feiern",
+    "date": "2026-10-29T07:00:47.449157",
+    "duration_sec": 1513.99,
+    "duration_min": 25.23,
+    "video_file": "podcast_ep13_20261029_063741.mp4",
+    "platform": "Facebook"
   }
 ]
