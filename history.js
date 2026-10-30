@@ -116,6 +116,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.23,
     "video_file": "podcast_ep13_20261029_063741.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "Tschüss 'Danke'! Mehr als nur ein Wort: Ausdruck von Dankbarkeit im lockeren Gespräch",
+    "date": "2026-10-30T07:03:19.538499",
+    "duration_sec": 1535.69,
+    "duration_min": 25.59,
+    "video_file": "podcast_ep14_20261030_063821.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
