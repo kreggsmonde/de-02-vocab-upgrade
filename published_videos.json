@@ -124,5 +124,14 @@
     "duration_min": 25.59,
     "video_file": "podcast_ep14_20261030_063821.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Schluss mit 'Das ist schwer'! So sprichst du über Herausforderungen wie ein Profi",
+    "date": "2026-10-31T06:50:40.628469",
+    "duration_sec": 1600.8,
+    "duration_min": 26.68,
+    "video_file": "podcast_ep15_20261031_062720.mp4",
+    "platform": "Facebook"
   }
 ]
