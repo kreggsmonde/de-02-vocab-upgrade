@@ -142,5 +142,14 @@
     "duration_min": 26.35,
     "video_file": "podcast_ep16_20261101_065949.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 17,
+    "topic": "Von 'Kein Bock' zu 'Mega Vorfreude': So sprichst du über Motivation im Alltag",
+    "date": "2026-11-02T07:21:19.212342",
+    "duration_sec": 1485.62,
+    "duration_min": 24.76,
+    "video_file": "podcast_ep17_20261102_065836.mp4",
+    "platform": "Facebook"
   }
 ]
