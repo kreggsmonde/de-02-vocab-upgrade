@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.76,
     "video_file": "podcast_ep17_20261102_065836.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Schluss mit 'Bitte'! Eloquente Wege, um höfliche Bitten im Deutschen zu formulieren",
+    "date": "2026-11-03T07:45:57.123246",
+    "duration_sec": 1525.54,
+    "duration_min": 25.43,
+    "video_file": "podcast_ep18_20261103_072319.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
