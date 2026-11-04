@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.43,
     "video_file": "podcast_ep18_20261103_072319.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Schluss mit 'Ich bin gestresst'! So sprichst du über Druck wie ein echter Berliner",
+    "date": "2026-11-04T07:27:32.162757",
+    "duration_sec": 1487.02,
+    "duration_min": 24.78,
+    "video_file": "podcast_ep19_20261104_070444.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
