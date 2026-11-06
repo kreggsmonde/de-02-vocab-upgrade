@@ -179,6 +179,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.26,
     "video_file": "podcast_ep20_20261105_073145.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "Schluss mit 'Langeweile'! So sprichst du über deine Freizeit wie ein echter Berliner",
+    "date": "2026-11-06T07:47:11.545683",
+    "duration_sec": 1560.89,
+    "duration_min": 26.01,
+    "video_file": "podcast_ep21_20261106_073030.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
