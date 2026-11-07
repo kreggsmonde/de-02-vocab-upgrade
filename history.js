@@ -188,6 +188,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.01,
     "video_file": "podcast_ep21_20261106_073030.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 22,
+    "topic": "Schluss mit 'Ich bin satt'! Raffinierte Wege, kulinarische Zufriedenheit auszudrücken",
+    "date": "2026-11-07T07:07:55.066907",
+    "duration_sec": 1623.45,
+    "duration_min": 27.06,
+    "video_file": "podcast_ep22_20261107_064222.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
