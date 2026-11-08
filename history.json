@@ -196,5 +196,14 @@
     "duration_min": 27.06,
     "video_file": "podcast_ep22_20261107_064222.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Von 'Ist OK' zu 'Absolut spitze!': Wie du Begeisterung authentisch zeigst",
+    "date": "2026-11-08T07:11:34.733176",
+    "duration_sec": 1486.37,
+    "duration_min": 24.77,
+    "video_file": "podcast_ep23_20261108_064902.mp4",
+    "platform": "Facebook"
   }
 ]
