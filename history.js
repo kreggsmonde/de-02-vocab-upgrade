@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.77,
     "video_file": "podcast_ep23_20261108_064902.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Tschüss 'Zu viel'! So sprichst du über Überforderung und Stress wie ein echter Berliner",
+    "date": "2026-11-09T07:47:18.378863",
+    "duration_sec": 1439.57,
+    "duration_min": 23.99,
+    "video_file": "podcast_ep24_20261109_072505.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
