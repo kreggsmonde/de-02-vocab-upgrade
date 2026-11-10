@@ -215,6 +215,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.99,
     "video_file": "podcast_ep24_20261109_072505.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Tschüss 'Ich bin beschäftigt'! Mehr als nur 'viel zu tun' – So klingt echte Alltags-Action",
+    "date": "2026-11-10T08:13:55.260089",
+    "duration_sec": 1427.23,
+    "duration_min": 23.79,
+    "video_file": "podcast_ep25_20261110_075607.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
