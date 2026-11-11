@@ -224,6 +224,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.79,
     "video_file": "podcast_ep25_20261110_075607.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Schluss mit 'Ist gut so'! So drückst du wirklich Zufriedenheit aus",
+    "date": "2026-11-11T07:40:44.274800",
+    "duration_sec": 1556.13,
+    "duration_min": 25.94,
+    "video_file": "podcast_ep26_20261111_072134.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
