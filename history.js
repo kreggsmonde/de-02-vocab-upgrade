@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.94,
     "video_file": "podcast_ep26_20261111_072134.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Von 'Habe Hunger' zu 'Ich könnte Bäume ausreißen': Kulinarische Gelüste auf Deutsch meistern",
+    "date": "2026-11-12T08:14:21.464960",
+    "duration_sec": 1539.0,
+    "duration_min": 25.65,
+    "video_file": "podcast_ep27_20261112_075138.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
