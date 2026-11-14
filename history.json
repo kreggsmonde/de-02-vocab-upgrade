@@ -250,5 +250,14 @@
     "duration_min": 24.62,
     "video_file": "podcast_ep28_20261113_072811.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Von 'Bin fertig' zu 'Bin fix und fertig': So sagst du, dass du wirklich am Ende bist",
+    "date": "2026-11-14T07:35:15.520406",
+    "duration_sec": 1574.11,
+    "duration_min": 26.24,
+    "video_file": "podcast_ep29_20261114_071010.mp4",
+    "platform": "Facebook"
   }
 ]
