@@ -260,6 +260,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.24,
     "video_file": "podcast_ep29_20261114_071010.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Schluss mit 'Keine Ahnung'! Wie du Unsicherheit souverän meisterst",
+    "date": "2026-11-15T07:45:39.862755",
+    "duration_sec": 1618.25,
+    "duration_min": 26.97,
+    "video_file": "podcast_ep30_20261115_072107.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
