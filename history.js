@@ -269,6 +269,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.97,
     "video_file": "podcast_ep30_20261115_072107.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Ditching Boring English Words",
+    "date": "2026-11-16T07:50:00.238902",
+    "duration_sec": 1472.57,
+    "duration_min": 24.54,
+    "video_file": "podcast_ep31_20261116_072752.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
