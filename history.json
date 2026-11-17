@@ -277,5 +277,14 @@
     "duration_min": 24.54,
     "video_file": "podcast_ep31_20261116_072752.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Statt 'Okay', 'Gut', 'Super': Wie du echte Begeisterung zeigst",
+    "date": "2026-11-17T09:00:53.262730",
+    "duration_sec": 1366.78,
+    "duration_min": 22.78,
+    "video_file": "podcast_ep32_20261117_084018.mp4",
+    "platform": "Facebook"
   }
 ]
