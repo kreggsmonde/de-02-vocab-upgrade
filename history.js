@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.78,
     "video_file": "podcast_ep32_20261117_084018.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "Tschüss 'Ich bin schlau'! Klüger klingen mit modernen deutschen Ausdrücken",
+    "date": "2026-11-18T08:21:23.609305",
+    "duration_sec": 1409.49,
+    "duration_min": 23.49,
+    "video_file": "podcast_ep33_20261118_080252.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
