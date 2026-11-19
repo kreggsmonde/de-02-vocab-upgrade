@@ -295,5 +295,14 @@
     "duration_min": 23.49,
     "video_file": "podcast_ep33_20261118_080252.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Schluss mit 'Das ist teuer'! Wie du über Preise sprichst, ohne pleite zu klingen",
+    "date": "2026-11-19T08:36:27.989653",
+    "duration_sec": 1434.1,
+    "duration_min": 23.9,
+    "video_file": "podcast_ep34_20261119_081910.mp4",
+    "platform": "Facebook"
   }
 ]
