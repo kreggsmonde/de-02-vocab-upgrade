@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.71,
     "video_file": "podcast_ep35_20261120_075337.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "Von 'Geil!' zu 'Absolut krass!': Moderne Ausdrücke für Begeisterung und Erstaunen",
+    "date": "2026-11-21T08:09:35.612231",
+    "duration_sec": 1516.9,
+    "duration_min": 25.28,
+    "video_file": "podcast_ep36_20261121_075035.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
