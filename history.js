@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.28,
     "video_file": "podcast_ep36_20261121_075035.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Schluss mit 'Ich bin gelangweilt'! Coole Wege, über Freizeit-Flaute zu quatschen",
+    "date": "2026-11-22T08:01:42.873412",
+    "duration_sec": 1469.57,
+    "duration_min": 24.49,
+    "video_file": "podcast_ep37_20261122_073742.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
