@@ -331,5 +331,14 @@
     "duration_min": 24.49,
     "video_file": "podcast_ep37_20261122_073742.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 38,
+    "topic": "Weekend Adventures and Epic Fails",
+    "date": "2026-11-23T08:43:09.201166",
+    "duration_sec": 1417.01,
+    "duration_min": 23.62,
+    "video_file": "podcast_ep38_20261123_082510.mp4",
+    "platform": "Facebook"
   }
 ]
