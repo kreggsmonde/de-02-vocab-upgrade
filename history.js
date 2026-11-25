@@ -350,6 +350,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.05,
     "video_file": "podcast_ep39_20261124_103302.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "Von 'Ich bin müde' zu 'Ich bin fix und fertig': Wenn die Energie am Boden ist",
+    "date": "2026-11-25T09:40:54.651895",
+    "duration_sec": 1420.37,
+    "duration_min": 23.67,
+    "video_file": "podcast_ep40_20261125_092315.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
