@@ -358,5 +358,14 @@
     "duration_min": 23.67,
     "video_file": "podcast_ep40_20261125_092315.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "Von 'Langweilig' zu 'Bombe!': So wird dein Alltag zum Hingucker",
+    "date": "2026-11-26T09:19:19.193357",
+    "duration_sec": 1427.86,
+    "duration_min": 23.8,
+    "video_file": "podcast_ep41_20261126_090052.mp4",
+    "platform": "Facebook"
   }
 ]
