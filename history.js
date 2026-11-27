@@ -368,6 +368,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.8,
     "video_file": "podcast_ep41_20261126_090052.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "Schluss mit 'Ich verstehe nicht!' – So zeigst du echtes Interesse und Nachfragen",
+    "date": "2026-11-27T09:37:58.014097",
+    "duration_sec": 1449.36,
+    "duration_min": 24.16,
+    "video_file": "podcast_ep42_20261127_091541.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
