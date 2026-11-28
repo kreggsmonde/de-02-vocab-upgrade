@@ -376,5 +376,14 @@
     "duration_min": 24.16,
     "video_file": "podcast_ep42_20261127_091541.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "Schluss mit 'Ich bin okay'! Wie du wirklich sagst, wie's dir geht",
+    "date": "2026-11-28T08:53:10.026744",
+    "duration_sec": 1611.24,
+    "duration_min": 26.85,
+    "video_file": "podcast_ep43_20261128_083348.mp4",
+    "platform": "None"
   }
 ]
